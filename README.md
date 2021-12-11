@@ -1,12 +1,12 @@
 ## Olá, sou Laleska Rodrigues Salomão.
 
 - 📫 Contato: 
-  E-mail: laleskasalomao@gmail.com
-  Linkedin: https://www.linkedin.com/in/laleska-rodrigues-salomão-52a2641b7/
+  - E-mail: laleskasalomao@gmail.com
+  - Linkedin: https://www.linkedin.com/in/laleska-rodrigues-salomão-52a2641b7/
   
 - 💻 Trabalho:
-  Estudante Universitária do UniSalesiano
-  Trabalha com Back-end
+  - Estudante Universitária do UniSalesiano
+  - Trabalha com Back-end
   
   <a href="https://github.com/LaleskaSalles">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaleskaSalles&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
