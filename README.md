@@ -1,12 +1,16 @@
 ## Olá, sou Laleska Rodrigues Salomão.
 
 - 📫 Contato: 
-  - E-mail: laleskasalomao@gmail.com
   - Linkedin: https://www.linkedin.com/in/laleska-rodrigues-salomão-52a2641b7/
   
 - 💻 Trabalho:
-  - Estudante Universitária do UniSalesiano
-  - Trabalha com Back-end
+  - Formada em TDS (Tecnologia e Analise em Desenvolvimento de Sistemas) em Dez/2022
+  - Trabalha com QA (quality assurance)
+  
+- 💕 Sobre:
+  - Adoro aprender coisas novas, principalmente voltadas para área de tecnologia!
+  - Interessada em ampliar meus conhecimentos como QA.
+  
   
 ##
 
