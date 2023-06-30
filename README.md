@@ -5,11 +5,11 @@
   
 - 💻 Trabalho:
   - Formada em TDS (Tecnologia e Analise em Desenvolvimento de Sistemas) em Dez/2022
-  - Trabalha com QA (quality assurance)
+  - Migrando para Back-end
   
 - 💕 Sobre:
   - Adoro aprender coisas novas, principalmente voltadas para área de tecnologia!
-  - Interessada em ampliar meus conhecimentos como QA.
+  - Interessada em ampliar meus conhecimentos como Back-end/FullStack.
   
   
 ##
