@@ -1,7 +1,7 @@
 ## Olá, sou Laleska Rodrigues Salomão.
 
 - 📫 Contato: 
-  - Linkedin: https://www.linkedin.com/in/laleska-rodrigues-salomao-52a2641b7/
+  - Linkedin: https://www.linkedin.com/in/laleska-rodrigues-salomao/
   
 - 💻 Trabalho:
   - Formada em TDS (Tecnologia e Analise em Desenvolvimento de Sistemas) em Dez/2022
