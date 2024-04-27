@@ -1,15 +1,16 @@
 ## Olá, sou Laleska Rodrigues Salomão.
 
 - 📫 Contato: 
-  - Linkedin: https://www.linkedin.com/in/laleska-rodrigues-salomao/
+  - [LinkedIn](https://www.linkedin.com/in/laleska-rodrigues-salomao/)
+  - laleskasalomao@gmail.com
   
 - 💻 Trabalho:
   - Formada em TDS (Tecnologia e Analise em Desenvolvimento de Sistemas) em Dez/2022
-  - Migrando para Back-end
+  - Analista de Teste || Full Stack 
   
 - 💕 Sobre:
   - Adoro aprender coisas novas, principalmente voltadas para área de tecnologia!
-  - Interessada em ampliar meus conhecimentos como Back-end/FullStack.
+  - Interessada em ampliar meus conhecimentos como FullStack.
   
   
 ##
